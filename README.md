@@ -6,19 +6,29 @@ The input was classified into 10 classes.
 Class               values
 
 jackhammer          668
+
 engine_idling       624
+
 siren               607
+
 drilling            600
+
 air_conditioner     600
+
 dog_bark            600
+
 street_music        600
+
 children_playing    600
+
 car_horn            306
+
 gun_shot            230
 
 Dependencies :
 
-Librosa (pip install librosa): If librosa.display isn't working, import librosa.display instead of just importing librosa
+Librosa (pip install librosa): If 'librosa.display' isn't working, import 'librosa.display' instead of just importing 'librosa'.
+
 keras (pip install keras)
 
 Dataset - 'https://drive.google.com/drive/folders/0By0bAi7hOBAFUHVXd1JCN3MwTEU?usp=sharing'
