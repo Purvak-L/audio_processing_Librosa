@@ -16,7 +16,6 @@ children_playing    600
 car_horn            306
 gun_shot            230
 
-
 Dependencies :
 
 Librosa (pip install librosa): If librosa.display isn't working, import librosa.display instead of just importing librosa
